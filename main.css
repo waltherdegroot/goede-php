@@ -17,4 +17,20 @@ body{
 	font-weight: bold;
 	text-shadow: 2px 2px black;
 	text-align: center;
+} 
+
+.morgen{
+	background-image: url("./backgrounds/morning.png");
+}
+
+.middag{
+	background-image: url("./backgrounds/afternoon.png");
+}
+
+.avond{
+	background-image: url("./backgrounds/evening.png");
+}
+
+.nacht{
+	background-image: url("./backgrounds/night.png");
 }
